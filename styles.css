@@ -1,0 +1,50 @@
+body{
+    background:url("subway.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    width:100vw;
+    height:100vh;
+    background-attachment: fixed;
+    background-color: rgb(148, 51, 44);
+    background-blend-mode: color-burn;
+    color:rgb(199, 202, 201);
+    text-align: center;
+    padding-top: 90px;
+    overflow: hidden;
+}
+ 
+button{
+    display:block;
+    margin: auto;
+    margin-bottom: 20px;
+    padding:10px;
+    width:130px;
+    font-weight:bold;
+    border:none;
+    border-radius: 15%;
+    color:rgb(196, 177, 177);
+    font-size:17px;
+}
+#inc{
+    background-color:rgb(5, 61, 5);
+}
+#save{
+    background-color: rgb(201, 22, 9);
+}
+p{
+    
+    
+    margin-bottom:20px;
+}
+#count{
+    font-size: 45px;
+    color:rgb(250, 246, 245);
+    font-weight:bold;
+}
+#pre{
+    font-size: 25px;
+    color:rgb(196, 175, 175);
+}
+h1{
+    font-size: 50px;
+}
